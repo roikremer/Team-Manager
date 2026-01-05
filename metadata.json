@@ -1,0 +1,8 @@
+
+{
+  "name": "Football Squad & Team Balancer",
+  "description": "A professional tool for football team management, featuring player skill tracking, game day selection, and a smart balancing algorithm for 3-way team splits.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
